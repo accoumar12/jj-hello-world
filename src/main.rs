@@ -6,7 +6,7 @@ fn main() {
     print("Goodbye, world!");
 }
 
-// a function that prints
+// a function that prints something.
 fn print(m: &str) {
     println!("{m}")
 }
