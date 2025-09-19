@@ -6,7 +6,8 @@ fn main() {
     print("Goodbye, world!");
 }
 
-// a function that prints something.
+// a function that prints something. Yes.
+// yet another comment.
 fn print(m: &str) {
     println!("{m}")
 }
